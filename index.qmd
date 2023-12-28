@@ -13,3 +13,8 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 hello world
 1
 
+
+Website created with aid from instructions by Sam Csik
+https://ucsb-meds.github.io/creating-quarto-websites/
+
+
