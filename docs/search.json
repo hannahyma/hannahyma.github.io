@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "hannahyma.github.io",
+    "title": "Hannah Ma",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nhello world 1\nWebsite created with aid from instructions by Sam Csik https://ucsb-meds.github.io/creating-quarto-websites/"
+    "text": "I am a rising senior at Northwestern University studying Data Science and Biological Sciences. As an individual passionate about utilizing computational tools to improve drug discovery efforts, I seek opportunities to apply my natural sciences background in data science roles."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Data Science Projects",
+    "section": "",
+    "text": "At present, all data science projects are viewable on my Github at https://www.github.com/hannahyma"
   }
 ]

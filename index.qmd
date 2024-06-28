@@ -1,21 +1,19 @@
 ---
-title: "hannahyma.github.io"
+title: "Hannah Ma"
+image: images/profile.jpg
+toc: false
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/hannahyma
+    - icon: github
+      href: https://github.com/hannahyma
+    - icon: envelope-heart
+      href: mailto:hannahma2025@u.northwestern.edu
+    - icon: file-text
+      text: Resume
+      href: https://www.google.com
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-hello world
-1
-
-Website created with aid from instructions by Sam Csik
-https://ucsb-meds.github.io/creating-quarto-websites/
-
-Hello world!
-
-
+I am a rising senior at Northwestern University studying Data Science and Biological Sciences. As an individual passionate about utilizing computational tools to improve drug discovery efforts, I seek opportunities to apply my natural sciences background in data science roles.
