@@ -16,4 +16,4 @@ about:
       href: https://drive.google.com/file/d/1XdDxOeK8-F8aJ3Ql8rXR8QKz4pYBcWB3/view?usp=sharing
 ---
 
-I am a rising senior at Northwestern University studying Data Science and Biological Sciences. As an individual passionate about utilizing computational tools to improve drug discovery efforts, I seek opportunities to apply my natural sciences background in data science roles.
+I am a rising senior at Northwestern University studying Data Science and Biological Sciences. As an individual passionate about utilizing computational tools to improve the healthcare industry, I seek opportunities to apply my natural sciences background in data science roles.
